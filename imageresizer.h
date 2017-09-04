@@ -3,7 +3,6 @@
 #include "libimageresizer_global.h"
 #include <QObject>
 
-
 class LIBIMAGERESIZERSHARED_EXPORT ImageResizer : public QObject
 {
   Q_OBJECT
